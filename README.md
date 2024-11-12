@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-Name:T.RUCHITRA
-Register Number:212223110043
+# Name:K.Rakshitha
+# Register Number:212223110039
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
 
